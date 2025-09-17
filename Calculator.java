@@ -1,5 +1,5 @@
-//NAME : ADEBAYO SAMUEL OLUWATOYIN
-//MATRIC_NO : IFT/22/9181
+//NAME : APOTIADE JOSEPH
+//MATRIC_NO : IFT/22/9201
 
 public class Calculator {
     public int add(int a, int b) {
