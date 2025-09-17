@@ -1,5 +1,5 @@
-//NAME : ADEBAYO SAMUEL OLUWATOYIN
-//MATRIC : IFT/22/9181
+//NAME : APOTIADE JOSEPH
+//MATRIC : IFT/22/9201
 
 public class Book {
     private String title;
@@ -19,7 +19,7 @@ public class Book {
     }
 
     public static void main(String[] args) {
-        Book book1 = new Book("Half of a Yellow Sun", "Chimamanda Ngozi Adichie", 4500.00);
+        Book book1 = new Book("The Big Bang Theory", "Joseph Apotiade", 9500.00);
         book1.display();
     }
 }
